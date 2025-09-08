@@ -1,6 +1,6 @@
-# StarkInsure Risk Analytics
+# Starknet-Indemnify Risk Analytics
 
-The **StarkInsure Risk Analytics** is a Django-powered microservice that provides AI-driven risk assessment for DeFi insurance underwriting. Running on port `5001`, it analyzes on-chain and off-chain data to calculate insurance premiums and detect fraudulent claims.
+The **Starknet-Indemnify Risk Analytics** is a Django-powered microservice that provides AI-driven risk assessment for DeFi insurance underwriting. Running on port `5001`, it analyzes on-chain and off-chain data to calculate insurance premiums and detect fraudulent claims.
 
 ---
 
@@ -41,13 +41,13 @@ The **StarkInsure Risk Analytics** is a Django-powered microservice that provide
 - Python 3.10+  
 - PostgreSQL 15+ with TimescaleDB  
 - CUDA 11.7+ (for GPU acceleration)  
-- StarkNet full node access  
+- Starknet full node access  
 
 ### Installation  
 1. **Clone the repo**:  
    ```bash
-   git clone https://github.com/CRYPTOInsured-Foundation/starkinsure-risk-analytics.git
-   cd starkinsure-risk-analytics
+   git clone https://github.com/CRYPTOInsured-Foundation/starknet-indemnify-risk-analytics.git
+   cd starknet-indemnify-risk-analytics
    ```
 2. Setup virtual environment:
    ```bash
