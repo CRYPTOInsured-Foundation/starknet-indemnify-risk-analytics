@@ -1,5 +1,5 @@
 """
-URL configuration for starkinsure_risk_analytics project.
+URL configuration for starknet_indemnify_risk_analytics project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/5.2/topics/http/urls/
