@@ -430,7 +430,7 @@ DROP FUNCTION IF EXISTS starknet_indemnify_risk_analytics.fn_ingest_claim_eviden
 
 class Migration(migrations.Migration):
     dependencies = [
-        ('risk_engine', '0002_convert_to_hypertables'),
+        ('risk_engine', '0003_convert_to_hypertables'),
     ]
     operations = [
         migrations.RunSQL(SQL, reverse_sql=REVERSE)
