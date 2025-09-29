@@ -3,9 +3,9 @@ from django.db import connection
 from django.db.models.signals import post_migrate
 
 HYPERTABLES = {
-    "proposal_analytics": "submission_date",
+    "proposal_analytics": "created_date",
     "inspection_analytics": "created_at",
-    "claim_analytics": "submission_date",
+    "claim_analytics": "created_date",
     "claim_evidence_analytics": "submission_date",
     "policy_analytics": "created_at",
 }
