@@ -1,0 +1,16 @@
+numpy
+pandas
+requests
+tqdm
+opencv-python
+Pillow
+torch
+torchvision
+scikit-learn
+xgboost
+sentence-transformers
+geopy
+feedparser
+transformers
+joblib
+python-dotenv
